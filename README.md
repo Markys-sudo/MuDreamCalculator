@@ -1,4 +1,4 @@
-pip install pyinstaller /n
+pip install pyinstaller 
 
 
 pyinstaller --onefile --noconsole main.py    # create .exe
